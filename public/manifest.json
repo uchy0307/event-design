@@ -1,0 +1,31 @@
+{
+  "name": "イベント企画・ワクワク設計",
+  "short_name": "イベント企画・ワ",
+  "description": "参加者が驚くポイント配置",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0ede8",
+  "theme_color": "#8a6030",
+  "orientation": "portrait",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
